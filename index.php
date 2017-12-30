@@ -216,7 +216,7 @@
 <!-- Add Google Maps -->
 <!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBu-916DdpKAjTmJNIgngS6HL_kDIKU0aU&callback=myMap"></script> -->
 <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAaeZGKPRM_FCvDESCDUsg24XH3oIUQ9O0&libraries=places&callback=initMap"></script>
-<script type="text/javascript" src="javascript/script.js"></script>
+<script type="text/javascript" src="javascript/googlemap.js"></script>
 <!--
 To use this code on your website, get a free API key from Google.
 Read more at: https://www.w3schools.com/graphics/google_maps_basic.asp
