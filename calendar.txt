@@ -1,1 +1,0 @@
-{"eventname":["CSCI 4131","CSCI 4061"],"starttime":["14:22","09:20"],"endtime":["15:22","10:40"],"location":["Fraser Hall 125","KELLER 3250"],"day":["Mon","Mon"]}
