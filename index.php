@@ -60,7 +60,8 @@
 
     <!-- Hide this text on small devices -->
     <div class="w3-col m6 w3-hide-small w3-padding-large">
-      <p>Welcome to my website. Here is just a website i play around to do a experiment about what i am learning. This is only a starting projects and not add cool features i was thinking about. </p>
+      <p>Welcome to my website. Here is just a website i play around to do a experiment about what i am learning. This is only a starting projects and not add cool features i was thinking about.
+      https://github.com/cjhjason/myalicloudwebsite </p>
     </div>
   </div>
   <p class="w3-large w3-center w3-padding-16">Im really good at:</p>
