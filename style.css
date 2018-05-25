@@ -370,27 +370,28 @@ ul.slides li img
 
 #post-1
 {
-    background-image: url("demo-images/one_drop_home_image01-1024x403.png");
+    /* background-image: url("demo-images/one_drop_home_image01-1024x403.png"); */
+    background-image: url("images/background/background1.png");
 }
 
 #post-2
 {
-    background-image: url("demo-images/one_drop_home_image02.jpg");
+    background-image: url("images/background/background2.png");
 }
 
 #post-3
 {
-    background-image: url("demo-images/one_drop_home_image03.jpg");
+    background-image: url("images/background/background3.png");
 }
 
 #post-5
 {
-    background-image: url("demo-images/one_drop_home_image04.jpg");
+    background-image: url("images/background/background4.png");
 }
 
 #post-6
 {
-    background-image: url("demo-images/one_drop_home_image05.jpg");
+    background-image: url("images/background/background5.png");
 }
 
 .blog-top-content-holder
