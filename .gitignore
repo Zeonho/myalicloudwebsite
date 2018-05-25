@@ -55,3 +55,4 @@ docs/latex
 .htaccess
 .user.ini
 404.html
+.DS_Store
