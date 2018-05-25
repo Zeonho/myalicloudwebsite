@@ -50,3 +50,8 @@ compile_options.json
 build
 docs/html
 docs/latex
+
+
+.htaccess
+.user.ini
+404.html
